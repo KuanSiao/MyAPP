@@ -1,0 +1,16 @@
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\bin\Debug\net9.0-windows7.0\MainProjct.exe
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\bin\Debug\net9.0-windows7.0\MainProjct.deps.json
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\bin\Debug\net9.0-windows7.0\MainProjct.runtimeconfig.json
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\bin\Debug\net9.0-windows7.0\MainProjct.dll
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\bin\Debug\net9.0-windows7.0\MainProjct.pdb
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\obj\Debug\net9.0-windows7.0\MainProjct.Form1.resources
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\obj\Debug\net9.0-windows7.0\MainProjct.csproj.GenerateResource.cache
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\obj\Debug\net9.0-windows7.0\MainProjct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\obj\Debug\net9.0-windows7.0\MainProjct.AssemblyInfoInputs.cache
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\obj\Debug\net9.0-windows7.0\MainProjct.AssemblyInfo.cs
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\obj\Debug\net9.0-windows7.0\MainProjct.csproj.CoreCompileInputs.cache
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\obj\Debug\net9.0-windows7.0\MainProjct.dll
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\obj\Debug\net9.0-windows7.0\refint\MainProjct.dll
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\obj\Debug\net9.0-windows7.0\MainProjct.pdb
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\obj\Debug\net9.0-windows7.0\MainProjct.genruntimeconfig.cache
+C:\Users\kuan_siao\source\repos\MainProjct\MainProjct\obj\Debug\net9.0-windows7.0\ref\MainProjct.dll
